@@ -1,0 +1,10 @@
+target/*
+target
+
+*.class
+
+# intellij
+*.idea
+.idea
+
+*.iml
